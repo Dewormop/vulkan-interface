@@ -1,6 +1,0 @@
-#include "command_buffers.hpp"
-#include "descriptor.hpp"
-#include "image.hpp"
-#include "buffer.hpp"
-#include "synchronous_objects.hpp"
-#include "compute_pipeline.hpp"
